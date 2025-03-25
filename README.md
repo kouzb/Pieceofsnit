@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pieceofsnit
+- 👋 Hi, I’m @Kouzb
 - 👀 I’m interested in c# learning and unity 3d
 - 🌱 I’m currently learning "ijunior"
 - 💞️ I’m looking to collaborate on always
